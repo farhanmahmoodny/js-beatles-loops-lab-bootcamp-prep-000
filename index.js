@@ -33,7 +33,8 @@ function iLoveTheBeatles(number){
   do{
   array.push('I love the Beatles!')
   incrementVariable()
+  number + 1
   }
-  while (i === (number + 1));
+  while (i === number);
   return array
 }
