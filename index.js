@@ -30,11 +30,11 @@ function incrementVariable(){
 }
 function iLoveTheBeatles(number){
   var array = []
+  number + 2
   do{
   array.push('I love the Beatles!')
   incrementVariable()
-  number + 1
   }
-  while (i === number);
+  while (i < number);
   return array
 }
