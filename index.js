@@ -30,7 +30,6 @@ function incrementVariable(){
 }
 function iLoveTheBeatles(number){
   var array = []
-  number + 2
   do{
   array += 'I love the Beatles!'
   }
