@@ -32,9 +32,8 @@ function iLoveTheBeatles(number){
   var array = []
   number + 2
   do{
-  array.push('I love the Beatles!')
-  incrementVariable()
+  array += 'I love the Beatles!'
   }
-  while (i < number);
+  while (array.length < number);
   return array
 }
