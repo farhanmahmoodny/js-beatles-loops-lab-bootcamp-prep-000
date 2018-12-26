@@ -31,10 +31,8 @@ function iLoveTheBeatles(number){
     if(number > 15){
       return array
     }
-    else {
   array += 'I love the Beatles!'
 }
-}
-  while (array.length = 15 - number)
+  while (array.length > 15 && array.length < number)
   return array
 }
