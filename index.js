@@ -34,7 +34,7 @@ function iLoveTheBeatles(number){
     else {
   array += 'I love the Beatles!'
 }
-
+}
   while (array.length = 15 - number)
   return array
-}}
+}
