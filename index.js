@@ -32,7 +32,6 @@ function iLoveTheBeatles(number){
       return array
     }else {
   array += 'I love the Beatles!'
-  }
+}}
   while (array.length = 15 - number)
   return array
-}
