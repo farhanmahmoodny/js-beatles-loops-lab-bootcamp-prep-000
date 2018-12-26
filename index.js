@@ -30,9 +30,11 @@ function iLoveTheBeatles(number){
   do{
     if(number > 15){
       return array
-    }else {
+    }
+    else {
   array += 'I love the Beatles!'
-}}
+}
+
   while (array.length = 15 - number)
   return array
-}
+}}
